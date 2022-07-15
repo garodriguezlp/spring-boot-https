@@ -1,14 +1,16 @@
 # spring-boot-https
 
-## The big picture
+## The Big Picture
 
-## Get the certificate
+![](2022-07-15-16-55-05.png)
+
+## Get the Certificate
 
 Using [cerbot](https://certbot.eff.org/) to get a certificate:
 
 > [Tutorial: How To Use Certbot Standalone Mode to ... by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-22-04)
 
-## Execution
+## Run the Application
 
 ```bash
 docker run -d \
